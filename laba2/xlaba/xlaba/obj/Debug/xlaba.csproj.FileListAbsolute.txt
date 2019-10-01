@@ -1,0 +1,10 @@
+D:\лабы\2курс\ооп\laba2\xlaba\xlaba\bin\Debug\xlaba.exe.config
+D:\лабы\2курс\ооп\laba2\xlaba\xlaba\bin\Debug\xlaba.exe
+D:\лабы\2курс\ооп\laba2\xlaba\xlaba\bin\Debug\xlaba.pdb
+D:\лабы\2курс\ооп\laba2\xlaba\xlaba\obj\Debug\xlaba.csprojAssemblyReference.cache
+D:\лабы\2курс\ооп\laba2\xlaba\xlaba\obj\Debug\xlaba.csproj.CoreCompileInputs.cache
+D:\лабы\2курс\ооп\laba2\xlaba\xlaba\obj\Debug\xlaba.exe
+D:\лабы\2курс\ооп\laba2\xlaba\xlaba\obj\Debug\xlaba.pdb
+D:\лабы\2курс\ооп\laba2\xlaba\xlaba\bin\Debug\System.ValueTuple.dll
+D:\лабы\2курс\ооп\laba2\xlaba\xlaba\bin\Debug\System.ValueTuple.xml
+D:\лабы\2курс\ооп\laba2\xlaba\xlaba\obj\Debug\xlaba.csproj.CopyComplete
